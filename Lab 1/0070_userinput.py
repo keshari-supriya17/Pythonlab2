@@ -1,0 +1,11 @@
+
+Student_name = input("Enter the Student Name :")
+Student_Age = int(input("Enter the Student Age :"))
+Email =  input("Enter the Student Email :")
+Course_name = input("Enter the Course Name :")
+Course_fee = int(input("Enter the fees")) 
+print("Student Name  : ",Student_name)
+print("Student Age   : ",Student_Age)
+print("Course Email  : ",Email )
+print("Course name   :",Course_name)
+print("Course Fee    : ",Course_fee )
