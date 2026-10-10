@@ -1,5 +1,5 @@
 Product_name = input("Enter the Product Name  :")
-Current_stock = int(input("Enter the Customer Stock :"))
+Current_stock = int(input("Enter the Current Stock :"))
 Reorder_level = int(input("Enter the  Recorder Level :"))
 if Current_stock == 0:
     status = "Out of Stock"
